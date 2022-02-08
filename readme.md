@@ -8,3 +8,5 @@ I then - against all that is holy - compiled the resulting C++ code to WebAssemb
 The result is a verilog shift register that is running as a website.
 
 So yes, I enslaved Verilog to run in the web.
+
+[Become a heathen now!](https://mindar.github.io/TheProgrammingGodsAreCrying/)
