@@ -10,3 +10,5 @@ The result is a verilog shift register that is running as a website.
 So yes, I enslaved Verilog to run in the web.
 
 [Become a heathen now!](https://mindar.github.io/TheProgrammingGodsAreCrying/)
+
+![meme](meme.jpg)
